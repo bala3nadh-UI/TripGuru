@@ -1,7 +1,9 @@
 Please do the below commands to start the App -
+
 npm install
 npm run build
 npm start
+
 
 open URL: http://localhost:3000/#/city/phuket
 
